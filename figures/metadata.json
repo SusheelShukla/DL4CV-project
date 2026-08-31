@@ -1,0 +1,16 @@
+{
+  "project": "Layered Representations from a Single Image",
+  "input_image": "corner_image.jpg",
+  "image_width": 224,
+  "image_height": 224,
+  "segmentation_model": "Mask R-CNN ResNet-50 FPN",
+  "depth_model": "Intel/dpt-hybrid-midas",
+  "confidence_threshold": 0.6,
+  "mask_threshold": 0.5,
+  "intrinsic_method": "Retinex-inspired log-domain approximation",
+  "intrinsic_sigma": 15,
+  "depth_order": "near-to-far relative ordering",
+  "near_is_high": true,
+  "num_object_layers": 9,
+  "num_total_layers": 10
+}

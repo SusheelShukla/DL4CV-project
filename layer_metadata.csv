@@ -1,0 +1,11 @@
+depth_rank_near_to_far,semantic_class,layer_type,confidence,median_depth,mean_depth,area_pixels,rgba_file
+1,chair,object,0.9898928999900818,0.9821765164011561,0.8431042735695269,3507,/content/layered_output/layer_02_chair.png
+2,dining table,object,0.8998929858207703,0.4268247621625745,0.4063827203940437,1435,/content/layered_output/layer_06_dining_table.png
+3,dining table,object,0.6418944597244263,0.4220814310455002,0.3769829848656669,946,/content/layered_output/layer_09_dining_table.png
+4,tv,object,0.9585868716239929,0.38382422211290496,0.3808914762360417,1391,/content/layered_output/layer_04_tv.png
+5,dining table,object,0.8228034377098083,0.32792731146092097,0.319769932499423,513,/content/layered_output/layer_08_dining_table.png
+6,chair,object,0.9356422424316406,0.26596325689160466,0.2578064197214591,211,/content/layered_output/layer_05_chair.png
+7,couch,object,0.9926290512084961,0.15379348698120782,0.15866426664284478,4325,/content/layered_output/layer_01_couch.png
+8,bottle,object,0.8967634439468384,0.1241954578574444,0.12301769147501171,104,/content/layered_output/layer_07_bottle.png
+9,background,background,1.0,0.11719653452695218,0.1843450426695814,39001,/content/layered_output/layer_background.png
+10,bird,object,0.9759498238563538,0.11274345857973228,0.11260008156380519,132,/content/layered_output/layer_03_bird.png

@@ -1,0 +1,2 @@
+input_image,width,height,objects_detected,total_layers,mean_detection_confidence,reconstruction_MAE,reconstruction_MSE,reconstruction_PSNR_dB
+corner_image.jpg,224,224,9,10,0.9015617370605469,0.0,0.0,inf
