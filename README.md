@@ -48,6 +48,19 @@ DL4CV-Project
 - layer_metadata.csv - contains the metadata of the layers.
 - README.md - contains the project description.
 
+## Project Running
+
+To run the project, you need to open the jupyter notebook `DL4CV_LayeredRep1Img.ipynb` in google colab.
+- Use the `Runtime` -> `Restart and run all` option.
+- Upload the `corner_image.jpg` file during the runtime of the cell uploading the image.
+- Wait for the runtime to finish.
+- The output of the project will be saved in the `figures` folders as some images and a `metadata.json` displyed in the cell output.
+
+## Project Report
+
+The project report can be found in the `Layered Representations from a Single Image.pdf` file.
+
+
 ## Metadata
 
 The metadata of the layers is contained in the `layer_metadata.csv` file.
